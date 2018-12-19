@@ -30,7 +30,7 @@ setup(
 
     packages=find_packages(exclude=['contrib', 'docs', 'tests']),
 
-    install_requires=['ig-rest-client,'
+    install_requires=['ig-rest-client',
                       'lightstreamer-client'],
 
     include_package_data=True

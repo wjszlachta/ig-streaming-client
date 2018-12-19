@@ -4,6 +4,14 @@ Small Python library to connect to [IG](https://www.ig.com/) streaming API (more
 
 ## Installation
 
+To use most recent release:
+
+```bash
+pip install ig-streaming-client
+```
+
+To use current master branch:
+
 ```bash
 pip install git+https://github.com/wjszlachta/ig-streaming-client.git
 ```
